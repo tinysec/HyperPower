@@ -1,2 +1,2 @@
 # HyperPower
-a magic kernel fuzzer use hardware accelerated virtualization technology.
+a magic kernel fuzzer
